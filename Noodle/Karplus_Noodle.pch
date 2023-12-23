@@ -1,0 +1,97 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 4 3 17 
+4 84 1 4 
+5 31 1 1 
+6 19 2 11 
+7 78 2 14 
+8 53 1 8 
+2 58 0 15 
+10 9 3 3 
+9 94 3 9 
+11 58 1 14 
+12 73 0 12 
+13 77 2 6 
+3 68 0 1 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 4 1 0 5 0 1 
+0 8 1 0 5 0 1 
+0 7 0 0 6 0 1 
+0 6 1 0 7 1 1 
+0 6 0 0 4 1 1 
+0 7 1 0 8 0 1 
+0 2 2 0 8 0 1 
+0 11 2 0 8 0 1 
+0 6 2 0 2 0 1 
+0 10 2 0 2 0 1 
+0 10 1 0 7 0 1 
+0 9 0 0 10 0 1 
+0 1 0 0 9 0 1 
+0 1 1 0 9 1 1 
+2 11 0 0 12 0 1 
+2 12 1 0 13 2 1 
+0 10 0 0 11 0 1 
+2 4 0 0 3 1 1 
+2 8 0 0 4 0 0 
+2 2 0 0 8 0 0 
+2 12 0 0 2 0 0 
+2 13 0 0 12 0 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 4 3 110 0 0 
+2 58 16 80 38 77 68 102 58 98 26 27 71 0 33 89 105 97 0 
+3 68 2 34 1 
+4 84 3 0 16 1 
+5 31 1 0 
+6 19 3 120 126 64 
+7 78 2 48 64 
+9 94 3 64 91 0 
+10 9 6 64 64 0 127 127 0 
+11 58 16 96 60 56 63 127 72 32 32 40 66 2 46 37 89 46 0 
+12 73 1 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+10 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 2 outputs1
+2 DrumSynth1
+3 ClkGen1
+4 AD-Env1
+5 Noise1
+6 Mixer1
+7 Delay1
+8 Sample&Hold1
+9 StChorus1
+10 OscC1
+11 DrumSynth1
+12 LogicProc1
+13 ClkDivFix1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
